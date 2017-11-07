@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8A56C9E4-196D-498A-84B6-6EC6A97C2401}|Default">
+  <MonoDevelop.Ide.ItemProperties.ComicBookGal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ComicBookGal/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="ComicBookGal/Views/ComicBookGallery/Index.cshtml" Line="20" Column="38" />
+      <File FileName="ComicBookGal/Views/ComicBookGallery/Detail.cshtml" Line="8" Column="5" />
+      <File FileName="ComicBookGal/Views/Shared/_Layout.cshtml" Line="31" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
