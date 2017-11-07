@@ -1,0 +1,11 @@
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/bin/Debug/netcoreapp2.0/ComicBookGal.deps.json
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/bin/Debug/netcoreapp2.0/ComicBookGal.runtimeconfig.json
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/bin/Debug/netcoreapp2.0/ComicBookGal.runtimeconfig.dev.json
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/bin/Debug/netcoreapp2.0/ComicBookGal.dll
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/bin/Debug/netcoreapp2.0/ComicBookGal.pdb
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/obj/Debug/netcoreapp2.0/ComicBookGal.csprojResolveAssemblyReference.cache
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/obj/Debug/netcoreapp2.0/ComicBookGal.csproj.CoreCompileInputs.cache
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/obj/Debug/netcoreapp2.0/ComicBookGal.AssemblyInfoInputs.cache
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/obj/Debug/netcoreapp2.0/ComicBookGal.AssemblyInfo.cs
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/obj/Debug/netcoreapp2.0/ComicBookGal.dll
+/Users/richardhuynh/Projects/ComicBookGal/ComicBookGal/obj/Debug/netcoreapp2.0/ComicBookGal.pdb
